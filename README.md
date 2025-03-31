@@ -1,8 +1,8 @@
 # 👋 Hey there, I’m Elion
 👨🏻‍💻 Software Engineer in his early career<br>
-🧑🏻‍🎓 Bachelor degree in Computer Science and Engineering at [University of Florence](https://www.unifi.it/it)<br>
+🧑🏻‍🎓 Bachelor’s degree in Computer Science and Engineering at [University of Florence](https://www.unifi.it/it)<br>
 📖 Starting my Master's degree in September<br>
-🔍 Curiosity and problem solving are what I crave<br>
+🔍 Curiosity and problem-solving are what drive me<br>
 
 
 ## 📫 How to reach me

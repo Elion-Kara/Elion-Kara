@@ -3,24 +3,26 @@
 # 👋 Hey there, I’m Elion
 
 ### 👨🏻‍💻 Junior Software Engineer & Master's Student
-*Turning coffee into code and curiosity into algorithms.*
+*Filtering chaos, structuring information and revealing the hidden value in data.*
 
 <br>
 
-<p align="center">
   <a href="https://linkedin.com/in/elionkaraboja">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:elion.karaboja@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
+
 
 ---
 
 ### 🧐 About Me
 
-🎓 **Education:** Bachelor’s degree in *Computer Science and Engineering* at [University of Florence](https://www.unifi.it/it). Currently pursuing my **Master's degree**.
+🎓 **Education:**
+ * **M.S. in Computer Science** @ [University of Trento](https://www.unitn.it/) *(Current)*
+ * **B.S. in Computer Engineering** @ [University of Florence](https://www.unifi.it/it)
 
 🚀 **Focus:** My passion lies in **Data Science, Computer Vision, and Software Development**. I love breaking down complex problems and building efficient solutions.
 
@@ -59,13 +61,3 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elion-Kara&show_icons=true&theme=tokyonight&hide_border=true" alt="Elion's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elion-Kara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
-</p>
-
-</div>
